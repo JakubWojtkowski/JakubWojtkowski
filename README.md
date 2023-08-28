@@ -5,6 +5,8 @@
 
 - 🌱 I’m currently learning: **Redux, Firebase**
 
+- 🔭 I’m currently working on **whatsapp-clone**. Link to the repo: https://github.com/JakubWojtkowski/whatsapp-clone
+
 - 👨‍💻 My portfolio is available at: [https://portfolio-website-jakubwojtkowski.vercel.app/](https://portfolio-website-jakubwojtkowski.vercel.app/)
 
 - 📫 How to reach me: **jvkub.wojtkowski@gmail.com**
