@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/jakub-wojtkowski-1aab37275/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jakub wojtkowski" height="30" width="40" /></a> <a href="https://www.facebook.com/jakub.wojtkowski3/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jakub wojtkowski" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/jakub-wojtkowski-1aab37275/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jakub wojtkowski" height="30" width="40" /></a> <a href="https://www.facebook.com/jakub.wojtkowski3/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jakub wojtkowski" height="30" width="40" /></a>
   
 </p>
 <h3 align="left">Skills I work with every day:</h3>
