@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jakubwojtkowski&label=Profile%20views&color=0e75b6&style=flat" alt="jakubwojtkowski" /> </p>
 
-- 🌱 I’m currently learning: **Redux, Firebase**
+- 🌱 I’m currently learning: **Redux, Firebase, Next.js**
 
-- 🔭 I’m currently working on **e-commerce EcomEase**. Link to the repo: https://github.com/JakubWojtkowski/EcomEase
+- 🔭 I’m currently working on **Todolist-v2**. Link to the repo: https://github.com/JakubWojtkowski/toDoList-v2
 
 - 👨‍💻 My portfolio is available at: [https://portfolio-website-jakubwojtkowski.vercel.app/](https://portfolio-website-jakubwojtkowski.vercel.app/)
 
