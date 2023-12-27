@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Jakub Wojtkowski</h1>
-<h3 align="center">An ambitious full-stack developer from Poland</h3>
+<h3 align="center">An ambitious web full-stack developer from Poland</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jakubwojtkowski&label=Profile%20views&color=0e75b6&style=flat" alt="jakubwojtkowski" /> </p>
 
-- 🌱 I’m currently learning: **Redux, Firebase, Next.js**
+- 🌱 I’m currently learning: **Redux, React Native, Next.js**
 
 - 🔭 I’m currently working on **Todolist-v2**. Link to the repo: https://github.com/JakubWojtkowski/toDoList-v2
 
