@@ -3,7 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jakubwojtkowski&label=Profile%20views&color=0e75b6&style=flat" alt="jakubwojtkowski" /> </p>
 
-- 🌱 I’m currently learning: **Redux, React Native, Next.js**
+- 🚀 My main stack currently is React/Next.js in combination with Tailwind CSS and TypeScript.
+
+- 🌱 I’m learning: **React Native, Next.js**
 
 - 🔭 I’m currently working on **Todolist-v2**. Link to the repo: https://github.com/JakubWojtkowski/toDoList-v2
 
