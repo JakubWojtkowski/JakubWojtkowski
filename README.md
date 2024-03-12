@@ -7,7 +7,7 @@
 
 - 🌱 I’m learning: **React Native, Next.js**
 
-- 🔭 I’m currently working on **Todolist-v2**. Link to the repo: https://github.com/JakubWojtkowski/toDoList-v2
+- 🔭 I’m currently working on **blog**. Link soon...
 
 - 👨‍💻 My portfolio is available at: [https://portfolio-website-jakubwojtkowski.vercel.app/](https://portfolio-website-jakubwojtkowski.vercel.app/)
 
