@@ -7,7 +7,7 @@
 
 - 🌱 I’m learning: **React Native, Next.js**
 
-- 🔭 I’m currently working on **blog**. Link soon...
+- 🔭 I’m currently working on **blog**. Link: [https://improveu.blog/](https://improveu.blog/)
 
 - 👨‍💻 My portfolio is available at: [https://portfolio-website-jakubwojtkowski.vercel.app/](https://portfolio-website-jakubwojtkowski.vercel.app/)
 
