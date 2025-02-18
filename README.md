@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jakub Wojtkowski</h1>
-<h3 align="center">A passionate Web Developer and amateur Content Creator based in Białystok, Poland 📍</h3>
+<h3 align="center">A passionate Web Developer and amateur Content Creator based in Warsaw, Poland 📍</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jakubwojtkowski&label=Profile%20views&color=0e75b6&style=flat" alt="jakubwojtkowski" /> </p>
 
